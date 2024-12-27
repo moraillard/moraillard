@@ -29,15 +29,15 @@
 - **Languages**:
     
      <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40" alt="Python"/>
-     <img src="https://img.icons8.com/color/48/000000/r-project.png" width="40" height="40" alt="R"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="40" height="40" alt="R"/>
      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" alt="HTML"/>
 
 - **Tools and Platforms**:
 
-    <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="40" height="40" alt="Jupyter"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter"/>
     <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40" alt="GitHub"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/>
-    <img src="https://img.icons8.com/color/48/000000/rstudio.png" width="40" height="40" alt="RStudio"/>
+    <img src="https://icon.icepanel.io/Technology/svg/RStudio.svg" width="40" height="40" alt="RStudio"/>
 
 <br>
 </p>
