@@ -28,16 +28,16 @@
 
 - **Languages**:
     
-     <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" width="40" height="40" alt="Python"/>
-     <img src="https://img.icons8.com/?size=100&id=19294&format=png&color=000000" width="40" height="40" alt="R"/>
-     <img src="https://img.icons8.com/?size=100&id=80277&format=png&color=000000" width="40" height="40" alt="HTML"/>
+     <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40" alt="Python"/>
+     <img src="https://img.icons8.com/color/48/000000/r-project.png" width="40" height="40" alt="R"/>
+     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" alt="HTML"/>
 
 - **Tools and Platforms**:
 
-    <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="40" height="40" alt="Jupyter"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="GitHub"/>
-    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40" height="40" alt="AWS"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="RStudio"/>
+    <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="40" height="40" alt="Jupyter"/>
+    <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/>
+    <img src="https://img.icons8.com/color/48/000000/rstudio.png" width="40" height="40" alt="RStudio"/>
 
 <br>
 </p>
@@ -70,9 +70,8 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="mailto:mo.raillard@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				
-      </div>
+		
+</div>
 
 </p>
 
